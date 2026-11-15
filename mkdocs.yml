@@ -7,9 +7,16 @@ theme:
   features:
     - navigation.indexes   
 
+plugins:
+  - search
+  - mkdocs-video
+  - redirects:
+      redirect_maps:
+        'index.md': 'introduzione/index.md'
+
 nav:
   - Vista:
-    - index.md
+    - 'introduzione/index.md'
     - Getting Start: 'introduzione/get-strt.md'
   #- Layer Interfaccia Utente: 'ui.md'
   #- Controllo del Robot e Hardware: 'robot_hb.md'
@@ -19,9 +26,3 @@ nav:
 
 
 
-plugins:
-  - search
-  - mkdocs-video
-  - redirects:
-      redirect_maps:
-        'index.md': 'introduzione/index.md'
