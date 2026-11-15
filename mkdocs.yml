@@ -23,4 +23,5 @@ plugins:
   - search
   - mkdocs-video
   - redirects:
-    'index.md' : introduzione/index.md
+    redirect_maps:
+     'index.md' : introduzione/index.md
