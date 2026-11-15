@@ -12,6 +12,7 @@ plugins:
   - mkdocs-video
 
 nav:
+  - Home: index.md
   - Vista:
     - 'introduzione/index.md'
     - Getting Start: 'introduzione/get-strt.md'
