@@ -9,7 +9,7 @@ theme:
 
 nav:
   - Vista:
-    - introduzione/index.md
+    - index.md
     - Getting Start: 'introduzione/get-strt.md'
   #- Layer Interfaccia Utente: 'ui.md'
   #- Controllo del Robot e Hardware: 'robot_hb.md'
