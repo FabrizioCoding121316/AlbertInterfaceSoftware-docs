@@ -11,11 +11,11 @@ nav:
   - Vista:
     - introduzione/index.md
     - Getting Start: 'introduzione/get-strt.md'
-  - Layer Interfaccia Utente: 'ui.md'
-  - Controllo del Robot e Hardware: 'robot_hb.md'
-  - Percezione e Servizi d'Assistenza: 'p_as.md'
-  - Infrastruttura Cross-Cutting: 'p_as.md'
-  - About: 'about.mb'
+  #- Layer Interfaccia Utente: 'ui.md'
+  #- Controllo del Robot e Hardware: 'robot_hb.md'
+  #- Percezione e Servizi d'Assistenza: 'p_as.md'
+  #- Infrastruttura Cross-Cutting: 'p_as.md'
+  #- About: 'about.mb'
 
 
 
