@@ -2,3 +2,4 @@ mkdocs
 mkdocs-video
 mkdocs-section-index
 mkdocs-material
+mkdocs-redirects
