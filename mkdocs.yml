@@ -10,9 +10,6 @@ theme:
 plugins:
   - search
   - mkdocs-video
-  - redirects:
-      redirect_maps:
-        'index.md': 'introduzione/index.md'
 
 nav:
   - Vista:
