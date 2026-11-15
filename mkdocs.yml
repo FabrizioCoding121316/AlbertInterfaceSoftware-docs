@@ -1,0 +1,23 @@
+site_name: Documentazione AIS | Albert Interface Software
+
+#theme: gitbook
+
+theme:
+  name: material
+  features:
+    - navigation.indexes   
+
+nav:
+  - Vista:
+    - introduzione/index.md
+    - Getting Start: 'introduzione/get-strt.md'
+  - Layer Interfaccia Utente: 'ui.md'
+  - Controllo del Robot e Hardware: 'robot_hb.md'
+  - Percezione e Servizi d'Assistenza: 'p_as.md'
+  - Infrastruttura Cross-Cutting: 'p_as.md'
+  - About: 'about.mb'
+
+
+
+plugins:
+  - mkdocs-video   
